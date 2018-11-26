@@ -22,4 +22,14 @@ payload_file по умолчанию payload.exe
   - Сервис "Microsoft .NET Framework NGEN"
   
   
+Задача GoogleUpdate запускается от имени системы
+  [!alt text](https://i.ibb.co/PrCH81v/Untitled.png)
+  
+Администратор имеет право писать в файл, отвечающий за обновления
+  [!alt text](https://i.ibb.co/2dNsNBf/Untitled.png)
  
+ Запуск експлойта для подмены файла обновления на произвольный другой
+  [!alt text](https://i.ibb.co/g6T7Xhs/Untitled.png)
+ 
+ При следующей попытке обновления отрабатывает подменённый файл от имени system, который запускает калькулятор
+  [!alt text](https://i.ibb.co/8XzjscK/Untitled.png)
