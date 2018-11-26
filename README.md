@@ -23,13 +23,19 @@ payload_file по умолчанию payload.exe
   
   
 Задача GoogleUpdate запускается от имени системы
-  [!alt text](https://i.ibb.co/PrCH81v/Untitled.png)
+  ![screenshot](https://user-images.githubusercontent.com/45364791/49029476-01fc2600-f1a5-11e8-94a4-c0c3a2bf14f9.png)
   
 Администратор имеет право писать в файл, отвечающий за обновления
-  [!alt text](https://i.ibb.co/2dNsNBf/Untitled.png)
+  ![screenshot](https://user-images.githubusercontent.com/45364791/49029477-01fc2600-f1a5-11e8-9e03-ce507ba38f78.png)
  
- Запуск експлойта для подмены файла обновления на произвольный другой
-  [!alt text](https://i.ibb.co/g6T7Xhs/Untitled.png)
+Запуск експлойта для подмены файла обновления на произвольный другой
+  ![screenshot](https://user-images.githubusercontent.com/45364791/49029478-01fc2600-f1a5-11e8-895e-6cf8e03d8ecd.png)
  
  При следующей попытке обновления отрабатывает подменённый файл от имени system, который запускает калькулятор
-  [!alt text](https://i.ibb.co/8XzjscK/Untitled.png)
+  ![screenshot](https://user-images.githubusercontent.com/45364791/49029479-01fc2600-f1a5-11e8-87e4-f468918cad28.png)
+
+
+
+
+
+
