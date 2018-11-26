@@ -1,5 +1,4 @@
-# lpe-tasks_scheduler_alpc
-POC: ALPC TasksScheduler LPE for Windows 7 and other
+# POC: ALPC TasksScheduler LPE for Windows 7 and other
 
 Позволяет заменить содержимое любого файла, удовлетворяющих условиям:
   1) Администратор имеет права в него писать
